@@ -1,3 +1,6 @@
+一个python实现的恶意流量检测系统。
+
+
 ![Maltrail](https://i.imgur.com/GnIZPaN.png)
 
 [![Build Status](https://api.travis-ci.org/stamparm/maltrail.svg?branch=master)](https://api.travis-ci.org/stamparm/maltrail) [![Python 2.6|2.7](https://img.shields.io/badge/python-2.6|2.7-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/stamparm/maltrail#license) [![Twitter](https://img.shields.io/badge/twitter-@maltrail-blue.svg)](https://twitter.com/maltrail)
